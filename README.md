@@ -14,5 +14,4 @@ bash install.sh
 python details.py
 ```
 
-# Author
-     Error 
+# Author: Error 
