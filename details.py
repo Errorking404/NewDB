@@ -15,6 +15,7 @@ blu = "\033[94m"  #Blue colour ascii code
 grn = "\033[92m"  #Green colour ascii code
 red = "\033[91m"  #Red colour ascii code
 rst = "\033[0m"   #White colour ascii code
+os.system("git pull") #Added this to automatically update the tool directly from GitHub.
 banner =os.system("figlet NewDB")  #This line uses is library to create banner. It has nothing to do with core program
 print(f"{grn}") #To print text in colour, we 1st create variables,then set their value to ascii color codez, then we use those variables to print color text
 print(banner) #This will print banner
